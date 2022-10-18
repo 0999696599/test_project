@@ -1,0 +1,42 @@
+html, body{
+    background-color: lightgrey;
+    margin: 0;
+    padding: 0;
+}
+.top-header{
+    background-color: black;
+}
+.menu-item{
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+.frame{
+    background-color: skyblue;
+    padding: 20px;
+    margin: 30px;
+}
+.image{
+    width: 20%;
+}
+.button{
+    color: white;
+    background-color: red;
+    display: block;
+    width: 3%;
+    margin: 10px;
+    text-decoration: none;
+}
+.bottom-footer{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    text-align: left;
+}
+
+th, td
+{
+    background-color: wheat;
+    border-style: dotted;
+}

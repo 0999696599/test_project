@@ -1,0 +1,23 @@
+
+th, td
+{
+    background-color: rgb(12, 232, 214);
+}
+
+html, body{
+    background-color: rgb(156, 203, 232);
+    margin: 0;
+    padding: 0;
+
+}
+
+.bottom-footer{
+    color: rgb(0, 0, 0);
+    background-color: rgb(95, 159, 224);
+    padding: 20px;
+    text-align: left;
+}
+
+.top-header{
+    background-color: rgb(152, 204, 237);
+}
