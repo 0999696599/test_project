@@ -18,5 +18,6 @@ $password = $_GET["fpassword"];
         echo 'ยินดีต้อนรับคุณ <h4>'. $user_name ."</h4>!<br><br>";
         echo '<a href="index1.html" class="btn btn-primary"> กลับสู่หน้าหลัก </a>';
     ?>
+    <br>
 </body>
 </html>
